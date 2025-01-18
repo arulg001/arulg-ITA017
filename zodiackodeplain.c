@@ -76,18 +76,18 @@ void displayWesternZodiac(int day, int month) {
     };
 
     const char *traits[] = {
-        "Responsible, disciplined, self-control, good managers.",
-        "Progressive, original, independent, humanitarian.",
-        "Compassionate, artistic, intuitive, gentle, wise, musical.",
-        "Courageous, determined, confident, enthusiastic, optimistic, honest, passionate.",
-        "Reliable, patient, practical, devoted, responsible, stable.",
-        "Gentle, affectionate, curious, adaptable, ability to learn quickly and exchange ideas.",
-        "Tenacious, highly imaginative, loyal, emotional, sympathetic, persuasive.",
-        "Creative, passionate, generous, warm-hearted, cheerful, humorous.",
-        "Loyal, analytical, kind, hardworking, practical.",
-        "Cooperative, diplomatic, gracious, fair-minded, social.",
-        "Resourceful, brave, passionate, stubborn, a true friend.",
-        "Generous, idealistic, great sense of humor."
+        "Responsible, disciplined, self-control, good managers. 💼",
+        "Progressive, original, independent, humanitarian. 🌍",
+        "Compassionate, artistic, intuitive, gentle, wise, musical. 🎨",
+        "Courageous, determined, confident, enthusiastic, optimistic, honest, passionate. 🔥",
+        "Reliable, patient, practical, devoted, responsible, stable. 🌱",
+        "Gentle, affectionate, curious, adaptable, ability to learn quickly and exchange ideas. 💬",
+        "Tenacious, highly imaginative, loyal, emotional, sympathetic, persuasive. 💖",
+        "Creative, passionate, generous, warm-hearted, cheerful, humorous. 🌞",
+        "Loyal, analytical, kind, hardworking, practical. 📊",
+        "Cooperative, diplomatic, gracious, fair-minded, social. 🤝",
+        "Resourceful, brave, passionate, stubborn, a true friend. 🦁",
+        "Generous, idealistic, great sense of humor. 🎉"
     };
 
     const char *elements[] = {
@@ -127,15 +127,15 @@ void displayWesternZodiac(int day, int month) {
     };
 
     const char *luckyGems[] = {
-        "Lapis Lazuli", "Amethyst", "Moonstone", "Diamond", "Emerald", 
-        "Tiger's Eye, Emerald", "Ruby, Pearl", "Carnelian", "Peridot", "Sapphire", 
-        "Topaz, Opal", "Topaz"
+        "Lapis Lazuli 💎", "Amethyst 💜", "Moonstone 🌙", "Diamond 💎", "Emerald 💚", 
+        "Tiger's Eye 🐅, Emerald 💚", "Ruby ❤️, Pearl 🦪", "Carnelian 🔴", "Peridot 💚", "Sapphire 💙", 
+        "Topaz 💛, Opal 🌈", "Topaz 💛"
     };
 
     const char *flowers[] = {
-        "Pansy", "Orchid", "Water Lily ", "Thistle & Honeysuckle", "Rose, Poppy & Foxglove", 
-        "Lavender & Lily of the Valley", "Orchid & White Rose", "Sunflower & Marigold", 
-        "Sunflower & Marigold", "Rose", "Hibiscus & Geraniums", "Carnations & Crocuses"
+       "Pansy 🌸", "Orchid 🌺", "Water Lily 🌼", "Thistle & Honeysuckle 🌿", "Rose 🌹, Poppy & Foxglove 🌸", 
+        "Lavender & Lily of the Valley 🌸", "Orchid & White Rose 🌼", "Sunflower 🌻 & Marigold 🌼", 
+        "Sunflower 🌻 & Marigold 🌼", "Rose 🌹", "Hibiscus & Geraniums 🌺", "Carnations & Crocuses 🌷"
     };
 
     const char *topLoveMatches[] = {
@@ -181,18 +181,18 @@ void displayVedicZodiac(int day, int month, int year) {
     };
 
     const char *traits[] = {
-        "Disciplined, responsible, and practical.",
-        "Innovative, humanitarian, and independent.",
-        "Compassionate, artistic, and intuitive.",
-        "Courageous, enthusiastic, and energetic.",
-        "Reliable, patient, and practical.",
-        "Adaptable, communicative, and curious.",
-        "Nurturing, emotional, and protective.",
-        "Confident, generous, and charismatic.",
-        "Analytical, meticulous, and practical.",
-        "Diplomatic, fair-minded, and social.",
-        "Passionate, resourceful, and determined.",
-        "Optimistic, adventurous, and philosophical."
+        "Disciplined, responsible, and practical. 📚",
+        "Innovative, humanitarian, and independent. 🌟",
+        "Compassionate, artistic, and intuitive. 🎨",
+        "Courageous, enthusiastic, and energetic. ⚡",
+        "Reliable, patient, and practical. 🌱",
+        "Adaptable, communicative, and curious. 💬",
+        "Nurturing, emotional, and protective. ❤️",
+        "Confident, generous, and charismatic. 🌈",
+        "Analytical, meticulous, and practical. 📊",
+        "Diplomatic, fair-minded, and social. 🤝",
+        "Passionate, resourceful, and determined. 🔥",
+        "Optimistic, adventurous, and philosophical. 🌍"
     };
 
     int signIndex;
@@ -235,18 +235,18 @@ void displayChineseZodiac(int year) {
     };
 
     const char *traits[] = {
-        "Quick-witted , charming, and sociable.",
-        "Diligent, dependable, and strong.",
-        "Brave, competitive, and unpredictable.",
-        "Gentle, quiet, and compassionate.",
-        "Confident, intelligent, and enthusiastic.",
-        "Wise, discreet, and intuitive.",
-        "Energetic, independent, and free-spirited.",
-        "Creative, gentle, and compassionate.",
-        "Clever, curious, and mischievous.",
-        "Observant, hardworking, and courageous.",
-        "Loyal, honest, and friendly.",
-        "Generous, compassionate, and easy-going."
+        "Quick-witted, charming, and sociable. 😄",
+        "Diligent, dependable, and strong. 💪",
+        "Brave, competitive, and unpredictable. 🐅",
+        "Gentle, quiet, and compassionate. 🌸",
+        "Confident, intelligent, and enthusiastic. 🌟",
+        "Wise, discreet, and intuitive. 🧠",
+        "Energetic, independent, and free-spirited. 🌈",
+        "Creative, gentle, and compassionate. 🎨",
+        "Clever, curious, and mischievous. 🐒",
+        "Observant, hardworking, and courageous. 🦁",
+        "Loyal, honest, and friendly. 🤝",
+        "Generous, compassionate, and easy-going. 🌼"
     };
 
     const char *elements[] = {
@@ -274,15 +274,16 @@ void displayChineseZodiac(int year) {
     };
 
     const char *luckyGems[] = {
-        "Garnet", "Aquamarine", "Sapphire", "Jade", "Amethyst", 
-        "Topaz", "Ruby", "Emerald", "Peridot", "Diamond", 
-        "Opal", "Aquamarine"
+        "Garnet 💎", "Aquamarine 💧", "Sapphire 💙", "Jade 💚", "Amethyst 💜", 
+        "Topaz 💛", "Ruby ❤️", "Emerald 💚", "Peridot 💚", "Diamond 💎", 
+        "Opal 🌈", "Aquamarine 💧"
     };
 
     const char *flowers[] = {
-        "Lily", "Tulip", "Plum Blossom", "Jasmine", "Peony", 
-        "Orchid", "Marigold", "Carnation", "Chrysanthemum", "Gladiolus", 
-        "Rose", "Lotus"
+        "Lily 🌸", "Tulip 🌷", "Plum Blossom 🌼", "Jasmine 🌼", "Peony 🌸", 
+        "Orchid 🌺", "Marigold 🌼", "Carnation 🌸", "Chrysanthemum 🌼", "Gladiolus 🌼", 
+        "Rose 🌹", "Lotus 🪷"
+
     };
 
     const char *bestMatches[] = {
@@ -318,73 +319,74 @@ void displayChineseZodiac(int year) {
 void displayEgyptianZodiac(int day, int month) {
     // Arrays to hold the zodiac sign information
     const char *zodiacNames[] = {
-        "Amun", "Ra", "Osiris", "Isis", "Horus", "Seth", 
-        "Anubis", "Thoth", "Sekhmet", "Bastet", "Mut", "Geb"
+        "Amun 𓀃", "Ra 𓀎", "Osiris 𓀷", "Isis 𓁖", "Horus 𓁭", "Seth 𓁯", 
+        "Anubis 𓁢", "Thoth 𓁟", "Sekhmet 𓁈", "Bastet 𓁛", "Mut 𓁖", "Geb 𓅋"
     };
 
     const char *personalityTraits[] = {
-        "Mysterious, powerful, and protective.",
-        "Energetic, creative, and optimistic.",
-        "Wise, nurturing, and protective.",
-        "Compassionate, loving, and intuitive.",
-        "Visionary, ambitious, and strong-willed.",
-        "Independent, assertive, and dynamic.",
-        "Mysterious, protective, and loyal.",
-        "Intelligent, wise, and communicative.",
-        "Strong, fierce, and protective.",
-        "Nurturing, playful, and loving.",
-        "Mysterious, intuitive, and spiritual.",
-        "Grounded, nurturing, and stable."
+        "Mysterious, powerful, and protective. 🛡️",
+        "Energetic, creative, and optimistic. ☀️",
+        "Wise, nurturing, and protective. 🌱",
+        "Compassionate, loving, and intuitive. ❤️",
+        "Visionary, ambitious, and strong-willed. 💪",
+        "Independent, assertive, and dynamic. ⚡",
+        "Mysterious, protective, and loyal. 🐾",
+        "Intelligent, wise, and communicative. 🧠",
+        "Strong, fierce, and protective. 🦁",
+        "Nurturing, playful, and loving. 🌼",
+        "Mysterious, intuitive, and spiritual. 🌌",
+        "Grounded, nurturing, and stable. 🌍"
     };
 
     const char *elements[] = {
-        "Fire", "Fire", "Earth", "Water", "Air", "Fire", 
-        "Earth", "Air", "Fire", "Fire", "Water", "Earth"
+        "Fire 🜂", "Fire 🜂", "Earth 🜃", "Water 🜄", "Air 🜁", "Fire 🜂", 
+        "Earth 🜃", "Air 🜁", "Fire 🜂", "Fire 🜂", "Water 🜄", "Earth 🜃"
     };
 
     const char *qualities[] = {
-        "Leader", "Creator", "Rebirth", "Healer", "Courageous", "Warrior", 
-        "Transformative", "Knowledgeable", "Fierce", "Protector", "Nurturer", "Grounded"
+        "Leader 👑", "Creator 🎨", "Rebirth ♻️", "Healer 🩺", "Courageous 🦸", "Warrior ⚔️", 
+        "Transformative 🔄", "Knowledgeable 📚", "Fierce 🐅", "Protector 🛡️", "Nurturer 🤱", "Grounded 🌍"
     };
 
     const char *polarities[] = {
-        "Positive", "Positive", "Positive", "Negative", "Positive", "Negative", 
-        "Negative", "Positive", "Positive", "Positive", "Negative", "Negative"
+         "Positive (+)", "Positive (+)", "Positive (+)", "Negative (-)", "Positive", "Negative (-)", 
+        "Negative (-)", "Positive (+)", "Positive (+)", "Positive (+)", "Negative (-)", "Negative (-)"
     };
 
     const char *rulingPlanets[] = {
-        "Sun", "Sun", "Saturn", "Moon", "Sun", "Mars", 
-        "Pluto", "Mercury", "Mars", "Venus", "Moon", "Venus"
+        "Sun ☉", "Sun ☉", "Saturn ♄" , "Moon ☾" , "Sun ☉"  , "Mars ♂" , 
+        "Pluto ♇", "Mercury ☿", "Mars ♂", "Venus ♀", "Moon ☾", "Venus ♀"
     };
 
     const char *spiritColors[] = {
-        "Gold", "Yellow", "Green", "White", "Blue", "Black", 
-        "Black", "Yellow", "Red", "Red", "Silver", "Brown"
+        "Gold ⭐", "Yellow 💛", "Green 💚" , "White 🤍", "Blue 💙", "Black 🖤", 
+        "Black 🖤", "Yellow 💛", "Red ❤️", "Red ❤️" , "Silver 🩶", "Brown 🤎"
     };
 
     const char *luckyGems[] = {
-        "Sunstone", "Amber", "Onyx", "Moonstone", "Sapphire", "Garnet", 
-        "Obsidian", "Emerald", "Carnelian", "Ruby", "Pearl", "Turquoise"
+        "Sunstone ☀️", "Amber 🍂", "Onyx ⚫", "Moonstone 🌙", "Sapphire 💎", "Garnet ❤️", 
+        "Obsidian ⚫", "Emerald 💚", "Carnelian 🔴", "Ruby ❤️", "Pearl 🦪", "Turquoise 💙"
     };
 
     const char *flowers[] = {
-        "Sunflower", "Marigold", "Lily", "Jasmine", "Rose", "Cactus Flower", 
-        "Gladiolus", "Daffodil", "Hibiscus", "Carnation", "Lotus", "Dandelion"
+        "Sunflower 🌻", "Marigold 🌼", "Lily 🌸", "Jasmine 🌼", "Rose 🌹", "Cactus Flower 🌵", 
+        "Gladiolus 🌼", "Daffodil 🌼", "Hibiscus 🌺", "Carnation 🌸", "Lotus 🌸", "Dandelion 🌼"
     };
 
     const char *bestMatches[][3] = {
-        {"Ra", "Mut", "Horus"}, {"Amun", "Sekhmet", "Thoth"}, {"Isis", "Horus", "Anubis"},
-        {"Osiris", "Horus", "Thoth"}, {"Amun", "Isis", "Ra"}, {"Sekhmet", "Bastet", "Anubis"},
-        {"Osiris", "Thoth", "Mut"}, {"Isis", "Anubis", "Ra"}, {"Ra", "Seth", "Horus"},
-        {"Seth", "Mut", "Thoth"}, {"Amun", "Anubis", "Osiris"}, {"Thoth", "Isis", "Bastet"}
+        {"Ra 𓀎", "Mut 𓁯", "Horus 𓁭"}, {"Amun 𓀃", "Sekhmet 𓁈", "Thoth 𓁟"}, {"Isis 𓁖", "Horus 𓁭", "Anubis 𓁢"},
+        {"Osiris 𓀷", "Horus 𓁭", "Thoth"}, {"Amun 𓀃", "Isis 𓁖", "Ra"}, {"Sekhmet 𓁈", "Bastet 𓁟", "Anubis 𓁢"},
+        {"Osiris 𓀷", "Thoth 𓁟", "Mut"}, {"Isis 𓁖", "Anubis 𓁢", "Ra 𓀎"}, {"Ra 𓀎", "Seth 𓁯", "Horus 𓁭"},
+        {"Seth 𓅋", "Mut 𓁖", "Thoth 𓁟"}, {"Amun 𓀃", "Anubis 𓁢", "Osiris 𓀷"}, {"Thoth 𓁖", "Isis 𓁖", "Bastet 𓁟"}
     };
 
     const char *challengingMatches[][3] = {
-        {"Seth", "Anubis", "Horus"}, {"Geb", "Bastet", "Seth"}, {"Seth", "Sekhmet", "Ra"},
-        {"Seth", "Sekhmet", "Ra"}, {"Seth", "Mut", "Anubis"}, {"Osiris", "Ra", "Horus"},
-        {"Sekhmet", "Amun", "Ra"}, {"Seth", "Horus", "Ra"}, {"Anubis", "Mut", "Ra"},
-        {"Ra", "Horus", "Seth"}, {"Seth", "Sekhmet", "Ra"}, {"Ra", "Sekhmet", "Horus"}
+        {"Seth 𓁯", "Anubis 𓁢", "Horus 𓁭"}, {"Geb 𓁛", "Bastet 𓁖", "Seth 𓁯"}, {"Seth 𓁛", "Sekhmet", "Ra 𓀎"},
+        {"Seth 𓁯", "Sekhmet 𓁈", "Ra 𓀎"}, {"Seth 𓁟", "Mut 𓅋", "Anubis"}, {"Osiris 𓀷", "Ra 𓁛", "Horus 𓁭"},
+        {"Sekhmet 𓁖", "Amun", "Ra 𓀎"}, {"Seth 𓁯", "Horus 𓁭", "Ra 𓀎"}, {"Anubis 𓁢", "Mut 𓁛", "Ra"},
+        {"Ra 𓀎", "Horus 𓁭", "Seth 𓅋"}, {"Seth 𓅋", "Sekhmet 𓁛", "Ra 𓀎"}, {"Ra 𓀎", "Sekhmet 𓁈", "Horus 𓁭"}
     };
+
 
     int index = -1;
 
@@ -436,70 +438,70 @@ void displayEgyptianZodiac(int day, int month) {
 
 void displayCelticZodiac(int day, int month) {
     const char *signs[] = {
-        "Willow", "Ash", "Oak", "Hawthorn", "Vine", 
-        "Reed", "Elder", "Rowan", "Birch", "Yew"
+        "Willow 🌿", "Ash 🌳", "Oak 🌳", "Hawthorn 🌸", "Vine 🍇",
+"Reed 🌾","Elder 🌼","Rowan 🍒","Birch 🌳","Yew 🌲"
     };
 
     const char *traits[] = {
-        "Intuitive, adaptable, and sensitive.",
-        "Strong, wise, and resilient.",
-        "Strong, dependable, and wise.",
-        "Creative, imaginative, and sensitive.",
-        "Passionate, artistic, and expressive.",
-        "Flexible, adaptable, and resourceful.",
-        "Intuitive, wise, and protective.",
-        "Brave, adventurous, and confident.",
-        "New beginnings, growth, and renewal.",
-        "Mysterious, transformative, and deep."
+        "Intuitive, adaptable, and sensitive. 🌊",
+        "Strong, wise, and resilient. 💪",
+        "Strong, dependable, and wise. 🦉",
+        "Creative, imaginative, and sensitive. 🎨",
+        "Passionate, artistic, and expressive. 🎭",
+        "Flexible, adaptable, and resourceful. 🔄",
+        "Intuitive, wise, and protective. 🛡️",
+        "Brave, adventurous, and confident. 🦁",
+        "New beginnings, growth, and renewal. 🌱",
+        "Mysterious, transformative, and deep. 🌌"
     };
 
     const char *elements[] = {
-        "Water", "Water", "Earth", "Fire", "Earth", 
-        "Water", "Water", "Fire", "Air", "Earth"
+        "Water 🜄", "Water 🜄", "Earth 🜃", "Fire 🜂", "Earth 🜃", 
+        "Water 🜄", "Water 🜄", "Fire 🜂", "Air 🜁", "Earth 🜃"
     };
 
     const char *qualities[] = {
-        "Intuitive", "Visionary", "Stabilizer", "Enchanter", "Harmonizer", 
-        "Secretive", "Wise", "Thinker", "Visionary", "Transformative"
+        "Intuitive 🌌", "Visionary 🔮", "Stabilizer ⚖️", "Enchanter ✨", "Harmonizer 🎶", 
+        "Secretive 🤫", "Wise 📚", "Thinker 💭", "Visionary 🌠", "Transformative 🔄"
     };
 
     const char *polarities[] = {
-        "Negative", "Positive", "Positive", "Positive", "Negative", 
-        "Negative", "Negative", "Negative", "Positive", "Negative"
+        "Negative (-)", "Positive (+)", "Positive (+)", "Positive (+)", "Negative (-)", 
+        "Negative (-)", "Negative (-)", "Negative (-)", "Positive (+)", "Negative (-)"
     };
 
     const char *rulingPlanets[] = {
-        "Moon", "Neptune", "Jupiter", "Mars", "Venus", 
-        "Pluto", "Saturn", "Uranus", "Sun", "Pluto"
+        "Moon ☾", "Neptune ♆", "Jupiter ♃", "Mars ♂", "Venus ♀", 
+        "Pluto ♇", "Saturn ♄", "Uranus ♅", "Sun ☉", "Pluto ♇"
     };
 
     const char *spiritColors[] = {
-        "Silver", "Blue", "Gold", "Pink", "Purple", 
-        "Black", "White", "Green", "White", "Black"
+        "Silver 🩶", "Blue 💙", "Gold ⭐", "Pink 🩷", "Purple 💜", 
+        "Black 🖤", "White 🤍", "Green", "White 🤍", "Black 🖤"
     };
 
     const char *luckyGems[] = {
-        "Moonstone", "Amethyst", "Sapphire", "Topaz", "Emerald", 
-        "Obsidian", "Jet", "Garnet", "Quartz", "Onyx"
+        "Moonstone 🌙", "Amethyst 💜", "Sapphire 💙", "Topaz 💛", "Emerald 💚", 
+        "Obsidian ⚫", "Jet ⚫", "Garnet ❤️", "Quartz 🔮", "Onyx ⚫"
     };
 
     const char *flowers[] = {
-        "Willow Flower", "Water Lily", "Oak Blossom", "Hawthorn Blossom", "Vine Flower", 
-        "Reed Grass", "Elder Flower", "Snowdrop", "Dandelion", "Yew Blossom"
+         "Willow Flower 🌿", "Water Lily 🌸", "Oak Blossom 🌳", "Hawthorn Blossom 🌼", "Vine Flower 🍇", 
+        "Reed Grass 🌾", "Elder Flower 🌼", "Snowdrop ❄️", "Dandelion 🌼", "Yew Blossom 🌲"
     };
 
     const char *bestMatches[] = {
-        "Ash, Reed, Rowan", "Willow, Birch, Rowan", "Hawthorn, Birch, Reed", 
-        "Oak, Vine, Rowan", "Ash, Elder, Hawthorn", 
-        "Willow, Oak, Birch", "Vine, Yew, Rowan", "Ash, Hawthorn, Elder", 
-        "Ash, Oak, Reed", "Elder, Reed, Rowan"
+        "Ash 🌳, Reed 🌾, Rowan 🌲", "Willow 🌿, Birch 🌳, Rowan 🌲", "Hawthorn 🌸, Birch 🌳, Reed 🌾", 
+        "Oak 🌳, Vine 🍇, Rowan 🌲", "Ash 🌳, Elder 🌳, Hawthorn 🌸", 
+        "Willow 🌿, Oak 🌳, Birch 🌳", "Vine 🍇, Yew 🌲, Rowan 🌲", "Ash 🌳, Hawthorn 🌸, Elder 🌳", 
+        "Ash 🌳, Oak 🌳, Reed 🌾", "Elder 🌳, Reed 🌾, Rowan 🌲"
     };
 
     const char *challengingMatches[] = {
-        "Oak, Elder", "Vine, Yew", "Rowan, Elder", 
-        "Yew, Reed", "", "Willow, Rowan", 
-        "Oak, Willow", "Oak, Vine", "Willow, Yew", 
-        "Hawthorn, Birch"
+        "Oak 🌳, Elder 🌳", "Vine 🍇, Yew 🌲", "Rowan 🌲, Elder 🌳", 
+        "Yew 🌲, Reed 🌾", "", "Willow 🌿, Rowan 🌲", 
+        "Oak 🌳, Willow 🌿", "Oak 🌳, Vine 🍇", "Willow 🌿, Yew 🌲", 
+        "Hawthorn 🌸, Birch 🌳"
     };
 
     int signIndex = -1;
